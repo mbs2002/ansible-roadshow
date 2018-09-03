@@ -32,6 +32,9 @@ If by some reason you get stuck in a lab - then here's what you should do. **Fol
 
 :boom: Make sure you have the required tools to do the lab. The tools are listed below:
 * An SSH client. On Linux and Mac, use the native ssh client in a terminal. On Windows, you can use PuTTy https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) if nothing else is available.
+
+(If you're running WIndows 10 (build 1706 or higher) ssh is native to the OS now, which means you don't have to use Putty to connect via SSH, but rather you can run it directly from CMD.)
+
 * A web browser. Ansible Tower officially supports latest version of Firefox and Chrome, so if you bump into any issues, try one of those web browsers.
 
 :boom: Review the overview of the lab environment. Most importantly, the Ansible Tower server is from where all the labs are done.
